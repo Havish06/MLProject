@@ -1,0 +1,11 @@
+{
+  "lat": 255.0,
+  "lon": 948.0,
+  "region": "Generic",
+  "diseases": [
+    "Bacterial Blight",
+    "Leaf Spot",
+    "Mosaic Viruses",
+    "Powdery Mildew"
+  ]
+}
